@@ -1,3 +1,3 @@
-# BostrevC-2
+# Bostrev c# simpleComands 
 SimpleComandsInVS
 Some simple math programs
